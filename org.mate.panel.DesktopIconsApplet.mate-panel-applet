@@ -1,0 +1,11 @@
+[Applet Factory]
+Id=CurrencyConverterAppletFactory
+Location=/usr/lib/mate-currency-converter-applet/mate-currency-converter-applet.py
+Name=Currency Converter Factory
+Description=Simple currencies converter applet for Mate desktop Factory
+
+[CurrencyConverterApplet]
+Name=Currency Converter
+Description=Simple currencies converter applet for Mate desktop Settings
+Icon=mate
+MateComponentId=OAFIID:MATE_CurrencyConverterApplet;

@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.mate.panel.applet.CurrencyConverterAppletFactory
+Exec=/usr/lib/mate-currency-converter-applet/mate-currency-converter-applet.py
